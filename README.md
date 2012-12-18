@@ -7,7 +7,7 @@ Installation
 ------------
 
 - $ virtualenv django-social-auth-google-openid
-- activate the virtual environment (Source/activate.bat (or) ./activate.sh) 
+- activate the virtual environment (Source/activate.bat (or)  source bin/activate) 
 - $ pip install -r requirements.txt (uncomment the MySQL-python if you are using mysql)
 
 
